@@ -2,7 +2,7 @@
 ## Imbalanced Image Classification, Model Comparison & Feature Visualization
 
 ## Overview
-This project focuses on handling class imbalance in image classification tasks, comparing multiple CNN architectures, evaluating performance using advanced metrics, and analyzing learned feature representations.
+This assignment focuses on handling class imbalance in image classification tasks, comparing multiple CNN architectures, evaluating performance using advanced metrics, and analyzing learned feature representations.
 
 Two datasets are used:
 - Imbalanced CIFAR-10 (artificial long-tailed distribution)
@@ -96,9 +96,11 @@ Models trained on Dataset A are fine-tuned and evaluated on Dataset B to measure
 
 1. Open notebook in Google Colab
 2. Enable GPU runtime
-3. Upload and unzip the Flowers dataset
-4. Run all cells sequentially
-5. Review generated plots and metrics
+3. Download the Flowers dataset zip file from:
+   https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
+4. Upload and unzip the Flowers dataset in Colab
+5. Run all cells sequentially
+6. Review generated plots and metrics
 
 ---
 
